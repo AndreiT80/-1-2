@@ -1,0 +1,5 @@
+Number_of_completed_works=(12)
+Number_of_hours_spen=(1.5)
+Course_name=("Python")
+Time_for_one_task=(Number_of_hours_spen/ Number_of_completed_works)
+print("Курс",Course_name,", всего задач:", Number_of_completed_works," ,затрачено часов:",Number_of_hours_spen," ,среднее время выполнения:",Time_for_one_task,"часа")
